@@ -1,16 +1,15 @@
-### Hi there 👋
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/arielconti10)](https://github.com/arielconti10)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arielconti10/)](https://www.linkedin.com/in/arielconti10/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arielsp11)](https://twitter.com/arielsp11)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arielconti10@gmail.com)](mailto:arielconti10@gmail.com)
 
-<!--
-**arielconti10/arielconti10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hellooo! 👋 Welcome to my profile
 
-Here are some ideas to get you started:
+My name is Ariel and I'm front-end developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 💙 In love with JavaScript
+ - 🌱 Currently learning Typescript and GraphQL
+ - 👯 I’m looking to collaborate on projects that make people life's better
+ - 😄 Also Back-end Developer 
+ - ⚡ Fun fact: Vynil collector
+ - 😄 Pronouns: he/him
