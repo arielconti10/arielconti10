@@ -13,3 +13,5 @@ My name is Ariel and I'm front-end developer.
  - 😄 Also Back-end Developer 
  - ⚡ Fun fact: Vynil collector
  - 😄 Pronouns: he/him
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielconti10&count_private=true&hide=contribs&show_icons=true&theme=cobalt)
