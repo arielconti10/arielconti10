@@ -1,15 +1,21 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/arielconti10)](https://github.com/arielconti10)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arielconti10/)](https://www.linkedin.com/in/arielconti10/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arielsp11)](https://twitter.com/arielsp11)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arielconti10@gmail.com)](mailto:arielconti10@gmail.com)
-
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Ariel and I'm front-end developer.
+My name is Ariel and I'm front-end engineer.
 
  - 💙 In love with JavaScript
- - 🌱 Currently learning Typescript and GraphQL
+ - 🌱 Currently working with React Native w/ Typescript
  - 👯 I’m looking to collaborate on projects that make people life's better
  - 😄 Also Back-end Developer 
  - ⚡ Fun fact: Vynil collector
  - 😄 Pronouns: he/him
+
+
+## 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/arielconti10) || [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arielsp11)
+
+
+ or give some ♥ on [mail](mailto:arielconti10@gmail.com) .
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
