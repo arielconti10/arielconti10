@@ -2,10 +2,9 @@
 
 My name is Ariel and I'm front-end engineer.
 
- - 💙 In love with JavaScript
- - 🌱 Currently working with React Native w/ Typescript
+ - 💙 In love with JavaScript Typescript
+ - 🌱 Currently working with React and React Native w/ Typescript
  - 👯 I’m looking to collaborate on projects that make people life's better
- - 😄 Also Back-end Developer 
  - ⚡ Fun fact: Vynil collector
  - 😄 Pronouns: he/him
 
