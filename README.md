@@ -16,4 +16,4 @@ My name is Ariel and I'm front-end engineer.
  or give some ♥ on [mail](mailto:arielconti10@gmail.com) .
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arielconti10&label=Profile%20views&color=0e75b6&style=flat" alt="arielconti10" /> </p>
+<img src="https://komarev.com/ghpvc/?username=arielconti10&label=Profile%20views&color=0e75b6&style=flat" alt="arielconti10" />
